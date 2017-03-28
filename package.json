@@ -1,0 +1,28 @@
+{
+  "name": "purescript-base64",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/athanclark/purescript-base64.git"
+  },
+  "keywords": [
+    "base64"
+  ],
+  "author": "Athan Clark <athan.clark@gmail.com>",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/athanclark/purescript-base64/issues"
+  },
+  "homepage": "https://github.com/athanclark/purescript-base64#readme",
+  "dependencies": {
+    "tweetnacl-util": "^0.15.0"
+  }
+}
