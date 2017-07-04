@@ -9,7 +9,7 @@
   "license": "BSD-3-Clause",
   "dependencies": {
     "purescript-prelude": "3.x",
-    "purescript-arraybuffer-types": "1.x",
+    "purescript-arraybuffer-types": "2.x",
     "purescript-nullable": "3.x"
   },
   "repository": {
