@@ -1,0 +1,10 @@
+{
+    "name": "purescript-base64",
+    "set": "psc-0.10.7",
+    "source": "https://github.com/purescript/package-sets.git",
+    "depends": [
+        "nullable",
+        "arraybuffer-types",
+        "prelude"
+    ]
+}
