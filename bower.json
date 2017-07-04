@@ -8,15 +8,15 @@
   ],
   "license": "BSD-3-Clause",
   "dependencies": {
-    "purescript-prelude": "~2.5.0",
-    "purescript-arraybuffer-types": "0.2.0",
-    "purescript-nullable": "2.0.0"
+    "purescript-prelude": "3.x",
+    "purescript-arraybuffer-types": "1.x",
+    "purescript-nullable": "3.x"
   },
   "repository": {
     "url": "git://github.com/athanclark/purescript-base64.git",
     "type": "git"
   },
   "devDependencies": {
-    "purescript-psci-support": "~2.0.0"
+    "purescript-psci-support": "3.x"
   }
 }
